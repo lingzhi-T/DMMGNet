@@ -1,0 +1,9 @@
+torch==1.13.1+cu117
+torchvision==0.11.0
+torchtuples==0.2.2
+numpy==1.24.0
+matplotlib==3.5.1
+lifelines==0.28.0
+albumentations==1.4.0
+pandas==2.1.0
+tqdm==4.66.1
